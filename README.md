@@ -1,22 +1,27 @@
-<!-- Banner ou GIF no topo -->
+<!-- GIF no topo -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
+  <img src="https://media.tenor.com/NJZJqkKPxb0AAAAd/typing-panda.gif" width="400" alt="Panda digitando" />
 </p>
 
 <h1 align="center">Olá 👋, eu sou o Erick Alcalde</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia e aprendizado contínuo</h3>
+<h3 align="center">Desenvolvedor & estudante em constante evolução</h3>
+
+---
+
+### 🎓 Formação & trajetória
+- 🎓 Primeira formação em **Ciências Contábeis**  
+- 💻 Atualmente estudante de **Análise e Desenvolvimento de Sistemas**  
 
 ---
 
 ### 🚀 Sobre mim
-- 💻 Estudante de **Sistemas de Informação / Engenharia de Software**  
-- 🌱 Aprendendo e trabalhando com **Spring Boot, Java, Git, Jira e Scrum**  
-- 🎯 Foco em **back-end e arquitetura de software**  
-- 📫 Contato: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+- 🌱 Foco em backend, arquitetura de software e boas práticas  
+- 🛠 Uso tecnologias como **Spring Boot, Java, Git, Jira e Scrum**  
+- 📫 Contato: [erickmolnar.alcalde@gmail.com](mailto:erickmolnar.alcalde@gmail.com)  
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -29,6 +34,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
@@ -40,17 +46,5 @@
 ---
 
 ### 🌐 Conecte-se comigo
-<p align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seu-email@exemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
----
-
-<p align="center">
-  <em>⭐️ Não esqueça de dar uma olhada nos meus repositórios abaixo! ⭐️</em>
-</p>
+<p
